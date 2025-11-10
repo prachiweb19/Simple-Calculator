@@ -27,3 +27,6 @@ It helped me understand how to handle user input and dynamically update the disp
 ## 🧩 How to Use
 
 1. Clone or download this repository
+
+Check it out here:
+https://prachiweb19.github.io/Simple-Calculator
